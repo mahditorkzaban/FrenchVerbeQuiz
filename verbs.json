@@ -1,12 +1,1443 @@
 [
   {
     "id": 1,
-    "verb": "Yakkin",
-    "construction": "de + infinitif",
-    "full_form": "regretter de",
-    "example": "Je regrette de ne pas avoir répondu plus tôt à ton message.",
-    "translation": "I regret not replying to your message earlier.",
-    "category": "de + infinitif",
-    "difficulty": "intermediate"
+    "verb": "regretter",
+    "construction": "de  inf",
+    "full_form": "regretter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "verb": "dire",
+    "construction": "inf ou  de  inf",
+    "full_form": "dire inf ou  de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 3,
+    "verb": "souffrir",
+    "construction": "de  inf",
+    "full_form": "souffrir de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 4,
+    "verb": "vouloir",
+    "construction": "inf",
+    "full_form": "vouloir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 5,
+    "verb": "aller",
+    "construction": "inf",
+    "full_form": "aller inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 6,
+    "verb": "continuer",
+    "construction": "de  inf",
+    "full_form": "continuer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "verb": "prendre plaisir",
+    "construction": "ë  inf",
+    "full_form": "prendre plaisir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "verb": "tenir",
+    "construction": "ë  inf",
+    "full_form": "tenir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "verb": "enseigner",
+    "construction": "ë  inf",
+    "full_form": "enseigner ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "verb": "avoir du mal",
+    "construction": "ë  inf",
+    "full_form": "avoir du mal ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 11,
+    "verb": "accepter",
+    "construction": "de  inf",
+    "full_form": "accepter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 12,
+    "verb": "sembler",
+    "construction": "inf",
+    "full_form": "sembler inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 13,
+    "verb": "avoir des difficults",
+    "construction": "ë  inf",
+    "full_form": "avoir des difficults ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 14,
+    "verb": "adorer",
+    "construction": "inf",
+    "full_form": "adorer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 15,
+    "verb": "apprendre",
+    "construction": "ë  inf",
+    "full_form": "apprendre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 16,
+    "verb": "aimer",
+    "construction": "inf",
+    "full_form": "aimer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 17,
+    "verb": "avoir le temps",
+    "construction": "de  inf",
+    "full_form": "avoir le temps de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 18,
+    "verb": "dsirer",
+    "construction": "inf",
+    "full_form": "dsirer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 19,
+    "verb": "dtester",
+    "construction": "inf",
+    "full_form": "dtester inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 20,
+    "verb": "attendre",
+    "construction": "de  inf",
+    "full_form": "attendre de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 21,
+    "verb": "tre ravi(e)",
+    "construction": "de  inf",
+    "full_form": "tre ravi(e) de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 22,
+    "verb": "tre occup(e)",
+    "construction": "ë  inf",
+    "full_form": "tre occup(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 23,
+    "verb": "craindre",
+    "construction": "de  inf",
+    "full_form": "craindre de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 24,
+    "verb": "se fliciter",
+    "construction": "de  inf",
+    "full_form": "se fliciter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 25,
+    "verb": "hsiter",
+    "construction": "ë  inf",
+    "full_form": "hsiter ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 26,
+    "verb": "expliquer",
+    "construction": "inf",
+    "full_form": "expliquer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 27,
+    "verb": "se plaire",
+    "construction": "ë  inf",
+    "full_form": "se plaire ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 28,
+    "verb": "s'obstiner",
+    "construction": "ë  inf",
+    "full_form": "s'obstiner ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 29,
+    "verb": "s'excuser",
+    "construction": "de  inf",
+    "full_form": "s'excuser de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 30,
+    "verb": "dclarer",
+    "construction": "inf",
+    "full_form": "dclarer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 31,
+    "verb": "chercher",
+    "construction": "ë  inf",
+    "full_form": "chercher ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 32,
+    "verb": "courir",
+    "construction": "inf",
+    "full_form": "courir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 33,
+    "verb": "tre rsolu(e)",
+    "construction": "ë  inf",
+    "full_form": "tre rsolu(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 34,
+    "verb": "tre cens(e)",
+    "construction": "inf",
+    "full_form": "tre cens(e) inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 35,
+    "verb": "tre heureux(-euse)",
+    "construction": "de  inf",
+    "full_form": "tre heureux(-euse) de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 36,
+    "verb": "finir",
+    "construction": "de  inf",
+    "full_form": "finir de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 37,
+    "verb": "avoir tort",
+    "construction": "de  inf",
+    "full_form": "avoir tort de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 38,
+    "verb": "s'apprter",
+    "construction": "ë  inf",
+    "full_form": "s'apprter ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 39,
+    "verb": "raconter",
+    "construction": "inf",
+    "full_form": "raconter inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 40,
+    "verb": "s'engager",
+    "construction": "ë  inf",
+    "full_form": "s'engager ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 41,
+    "verb": "se limiter",
+    "construction": "ë  inf",
+    "full_form": "se limiter ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 42,
+    "verb": "sortir",
+    "construction": "inf",
+    "full_form": "sortir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 43,
+    "verb": "imaginer",
+    "construction": "inf",
+    "full_form": "imaginer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 44,
+    "verb": "se forcer",
+    "construction": "ë  inf",
+    "full_form": "se forcer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 45,
+    "verb": "se lasser",
+    "construction": "de  inf",
+    "full_form": "se lasser de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 46,
+    "verb": "dcider",
+    "construction": "de  inf",
+    "full_form": "dcider de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 47,
+    "verb": "se charger",
+    "construction": "de  inf",
+    "full_form": "se charger de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 48,
+    "verb": "conseiller",
+    "construction": "de  inf",
+    "full_form": "conseiller de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 49,
+    "verb": "se moquer",
+    "construction": "de  inf",
+    "full_form": "se moquer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 50,
+    "verb": "contraindre",
+    "construction": "ë  inf",
+    "full_form": "contraindre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 51,
+    "verb": "permettre",
+    "construction": "de  inf",
+    "full_form": "permettre de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 52,
+    "verb": "annoncer",
+    "construction": "inf",
+    "full_form": "annoncer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 53,
+    "verb": "confirmer",
+    "construction": "inf",
+    "full_form": "confirmer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 54,
+    "verb": "se contenter",
+    "construction": "de  inf",
+    "full_form": "se contenter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 55,
+    "verb": "s'empresser",
+    "construction": "de  inf",
+    "full_form": "s'empresser de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 56,
+    "verb": "ordonner",
+    "construction": "de  inf",
+    "full_form": "ordonner de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 57,
+    "verb": "arriver",
+    "construction": "ë  inf",
+    "full_form": "arriver ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 58,
+    "verb": "se fatiguer",
+    "construction": "ë  inf",
+    "full_form": "se fatiguer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 59,
+    "verb": "proposer",
+    "construction": "de  inf",
+    "full_form": "proposer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 60,
+    "verb": "renoncer",
+    "construction": "ë  inf",
+    "full_form": "renoncer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 61,
+    "verb": "se mettre",
+    "construction": "ë  inf",
+    "full_form": "se mettre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 62,
+    "verb": "se prparer",
+    "construction": "ë  inf",
+    "full_form": "se prparer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 63,
+    "verb": "tre dispos(e)",
+    "construction": "ë  inf",
+    "full_form": "tre dispos(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 64,
+    "verb": "faire attention",
+    "construction": "ë  inf",
+    "full_form": "faire attention ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 65,
+    "verb": "russir",
+    "construction": "ë  inf",
+    "full_form": "russir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 66,
+    "verb": "faire semblant",
+    "construction": "de  inf",
+    "full_form": "faire semblant de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 67,
+    "verb": "s'attendre",
+    "construction": "ë  inf",
+    "full_form": "s'attendre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 68,
+    "verb": "s'amuser",
+    "construction": "ë  inf",
+    "full_form": "s'amuser ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 69,
+    "verb": "tre prt(e)",
+    "construction": "ë  inf",
+    "full_form": "tre prt(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 70,
+    "verb": "esprer",
+    "construction": "inf",
+    "full_form": "esprer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 71,
+    "verb": "autoriser",
+    "construction": "ë  inf",
+    "full_form": "autoriser ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 72,
+    "verb": "s'acharner",
+    "construction": "ë  inf",
+    "full_form": "s'acharner ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 73,
+    "verb": "tre suppos(e)",
+    "construction": "inf",
+    "full_form": "tre suppos(e) inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 74,
+    "verb": "rentrer",
+    "construction": "inf",
+    "full_form": "rentrer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 75,
+    "verb": "entendre",
+    "construction": "inf",
+    "full_form": "entendre inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 76,
+    "verb": "aspirer",
+    "construction": "ë  inf",
+    "full_form": "aspirer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 77,
+    "verb": "se rsoudre",
+    "construction": "ë  inf",
+    "full_form": "se rsoudre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 78,
+    "verb": "se hÃ¢ter",
+    "construction": "de  inf",
+    "full_form": "se hÃ¢ter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 79,
+    "verb": "s'arrter",
+    "construction": "de  inf",
+    "full_form": "s'arrter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 80,
+    "verb": "cesser",
+    "construction": "de  inf",
+    "full_form": "cesser de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 81,
+    "verb": "croire",
+    "construction": "inf",
+    "full_form": "croire inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 82,
+    "verb": "passer son temps",
+    "construction": "ë  inf",
+    "full_form": "passer son temps ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 83,
+    "verb": "s'occuper",
+    "construction": "de  inf",
+    "full_form": "s'occuper de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 84,
+    "verb": "recommander",
+    "construction": "de  inf",
+    "full_form": "recommander de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 85,
+    "verb": "s'efforcer",
+    "construction": "de  inf",
+    "full_form": "s'efforcer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 86,
+    "verb": "faire mieux",
+    "construction": "de  inf",
+    "full_form": "faire mieux de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 87,
+    "verb": "risquer",
+    "construction": "de  inf",
+    "full_form": "risquer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 88,
+    "verb": "oublier",
+    "construction": "de  inf",
+    "full_form": "oublier de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 89,
+    "verb": "avoir l'habitude",
+    "construction": "de  inf",
+    "full_form": "avoir l'habitude de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 90,
+    "verb": "avoir le droit",
+    "construction": "de  inf",
+    "full_form": "avoir le droit de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 91,
+    "verb": "tre triste",
+    "construction": "de  inf",
+    "full_form": "tre triste de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 92,
+    "verb": "jouer",
+    "construction": "ë  inf",
+    "full_form": "jouer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 93,
+    "verb": "tre oblig(e)",
+    "construction": "de  inf",
+    "full_form": "tre oblig(e) de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 94,
+    "verb": "tre content(e)",
+    "construction": "de  inf",
+    "full_form": "tre content(e) de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 95,
+    "verb": "menacer",
+    "construction": "de  inf",
+    "full_form": "menacer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 96,
+    "verb": "parvenir",
+    "construction": "ë  inf",
+    "full_form": "parvenir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 97,
+    "verb": "se vanter",
+    "construction": "de  inf",
+    "full_form": "se vanter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 98,
+    "verb": "avoir l'air",
+    "construction": "de  inf",
+    "full_form": "avoir l'air de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 99,
+    "verb": "jurer",
+    "construction": "inf",
+    "full_form": "jurer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 100,
+    "verb": "se rjouir",
+    "construction": "de  inf",
+    "full_form": "se rjouir de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 101,
+    "verb": "mriter",
+    "construction": "de  inf",
+    "full_form": "mriter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 102,
+    "verb": "se refuser",
+    "construction": "ë  inf",
+    "full_form": "se refuser ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 103,
+    "verb": "monter",
+    "construction": "inf",
+    "full_form": "monter inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 104,
+    "verb": "promettre",
+    "construction": "de  inf",
+    "full_form": "promettre de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 105,
+    "verb": "tre dcid(e)",
+    "construction": "ë  inf",
+    "full_form": "tre dcid(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 106,
+    "verb": "supplier",
+    "construction": "de  inf",
+    "full_form": "supplier de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 107,
+    "verb": "rvler",
+    "construction": "inf",
+    "full_form": "rvler inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 108,
+    "verb": "viter",
+    "construction": "de  inf",
+    "full_form": "viter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 109,
+    "verb": "commencer",
+    "construction": "ë  inf",
+    "full_form": "commencer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 110,
+    "verb": "inviter",
+    "construction": "ë  inf",
+    "full_form": "inviter ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 111,
+    "verb": "penser",
+    "construction": "ë  inf /  inf",
+    "full_form": "penser ë  inf /  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 112,
+    "verb": "paraÃ®tre",
+    "construction": "inf",
+    "full_form": "paraÃ®tre inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 113,
+    "verb": "faire exprÃ¨s",
+    "construction": "de  inf",
+    "full_form": "faire exprÃ¨s de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 114,
+    "verb": "souhaiter",
+    "construction": "inf",
+    "full_form": "souhaiter inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 115,
+    "verb": "encourager",
+    "construction": "ë  inf",
+    "full_form": "encourager ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 116,
+    "verb": "prfrer",
+    "construction": "inf",
+    "full_form": "prfrer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 117,
+    "verb": "s'habituer",
+    "construction": "ë  inf",
+    "full_form": "s'habituer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 118,
+    "verb": "tre habitu(e)",
+    "construction": "ë  inf",
+    "full_form": "tre habitu(e) ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 119,
+    "verb": "se borner",
+    "construction": "ë  inf",
+    "full_form": "se borner ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 120,
+    "verb": "avoir peur",
+    "construction": "de  inf",
+    "full_form": "avoir peur de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 121,
+    "verb": "avoir horreur",
+    "construction": "de  inf",
+    "full_form": "avoir horreur de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 122,
+    "verb": "avoir besoin",
+    "construction": "de  inf",
+    "full_form": "avoir besoin de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 123,
+    "verb": "rver",
+    "construction": "de  inf",
+    "full_form": "rver de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 124,
+    "verb": "se forcer",
+    "construction": "ë  inf",
+    "full_form": "se forcer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 125,
+    "verb": "se dpcher",
+    "construction": "de  inf",
+    "full_form": "se dpcher de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 126,
+    "verb": "avoir l'intention",
+    "construction": "de  inf",
+    "full_form": "avoir l'intention de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 127,
+    "verb": "reprocher",
+    "construction": "de  inf",
+    "full_form": "reprocher de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 128,
+    "verb": "avoir intrt",
+    "construction": "ë  inf",
+    "full_form": "avoir intrt ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 129,
+    "verb": "savoir",
+    "construction": "inf",
+    "full_form": "savoir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 130,
+    "verb": "avoir envie",
+    "construction": "de  inf",
+    "full_form": "avoir envie de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 131,
+    "verb": "avoir honte",
+    "construction": "de  inf",
+    "full_form": "avoir honte de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 132,
+    "verb": "essayer",
+    "construction": "de  inf",
+    "full_form": "essayer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 133,
+    "verb": "proposer",
+    "construction": "de  inf",
+    "full_form": "proposer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 134,
+    "verb": "se dcider",
+    "construction": "ë  inf",
+    "full_form": "se dcider ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 135,
+    "verb": "pousser",
+    "construction": "ë  inf",
+    "full_form": "pousser ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 136,
+    "verb": "affirmer",
+    "construction": "inf",
+    "full_form": "affirmer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 137,
+    "verb": "empcher",
+    "construction": "de  inf",
+    "full_form": "empcher de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 138,
+    "verb": "devoir",
+    "construction": "inf",
+    "full_form": "devoir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 139,
+    "verb": "refuser",
+    "construction": "de  inf",
+    "full_form": "refuser de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 140,
+    "verb": "songer",
+    "construction": "ë  inf",
+    "full_form": "songer ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 141,
+    "verb": "envisager",
+    "construction": "de  inf",
+    "full_form": "envisager de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 142,
+    "verb": "consentir",
+    "construction": "ë  inf",
+    "full_form": "consentir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 143,
+    "verb": "suggrer",
+    "construction": "de  inf",
+    "full_form": "suggrer de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 144,
+    "verb": "tendre",
+    "construction": "ë  inf",
+    "full_form": "tendre ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 145,
+    "verb": "pouvoir",
+    "construction": "inf",
+    "full_form": "pouvoir inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 146,
+    "verb": "remercier",
+    "construction": "de  inf",
+    "full_form": "remercier de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 147,
+    "verb": "descendre",
+    "construction": "inf",
+    "full_form": "descendre inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 148,
+    "verb": "persuader",
+    "construction": "de  inf",
+    "full_form": "persuader de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 149,
+    "verb": "tre dsol(e)",
+    "construction": "de  inf",
+    "full_form": "tre dsol(e) de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 150,
+    "verb": "tarder",
+    "construction": "ë  inf",
+    "full_form": "tarder ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 151,
+    "verb": "interdire",
+    "construction": "de  inf",
+    "full_form": "interdire de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 152,
+    "verb": "avoir raison",
+    "construction": "de  inf",
+    "full_form": "avoir raison de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 153,
+    "verb": "passer",
+    "construction": "inf",
+    "full_form": "passer inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 154,
+    "verb": "avoir tendance",
+    "construction": "ë  inf",
+    "full_form": "avoir tendance ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 155,
+    "verb": "compter",
+    "construction": "inf",
+    "full_form": "compter inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 156,
+    "verb": "prtendre",
+    "construction": "inf",
+    "full_form": "prtendre inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 157,
+    "verb": "arrter",
+    "construction": "de  inf",
+    "full_form": "arrter de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 158,
+    "verb": "avoir l'occasion",
+    "construction": "de  inf",
+    "full_form": "avoir l'occasion de  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 159,
+    "verb": "aider",
+    "construction": "ë  inf",
+    "full_form": "aider ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
+  },
+  {
+    "id": 160,
+    "verb": "servir",
+    "construction": "ë  inf",
+    "full_form": "servir ë  inf",
+    "example": "",
+    "translation": "",
+    "category": ""
   }
 ]
+
