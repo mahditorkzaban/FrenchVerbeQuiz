@@ -1568,35 +1568,6 @@
     "translation": "You should stop putting this work off until tomorrow.",
     "category": "de + infinitif",
     "difficulty": "beginner"
-  },
-  {
-    "id": 158,
-    "verb": "avoir l'occasion",
-    "construction": "de + infinitif",
-    "full_form": "avoir l'occasion de",
-    "example": "J'ai eu l'occasion de visiter cette ville l'an dernier.",
-    "translation": "I had the opportunity to visit that city last year.",
-    "category": "de + infinitif",
-    "difficulty": "intermediate"
-  },
-  {
-    "id": 159,
-    "verb": "aider",
-    "construction": "à + infinitif",
-    "full_form": "aider à",
-    "example": "Cette formation m'aide à mieux structurer mes analyses.",
-    "translation": "This training helps me better structure my analyses.",
-    "category": "à + infinitif",
-    "difficulty": "beginner"
-  },
-  {
-    "id": 160,
-    "verb": "servir",
-    "construction": "à + infinitif",
-    "full_form": "servir à",
-    "example": "Cet outil sert à comparer rapidement plusieurs options.",
-    "translation": "This tool is used to compare several options quickly.",
-    "category": "à + infinitif",
-    "difficulty": "beginner"
   }
+
 ]
